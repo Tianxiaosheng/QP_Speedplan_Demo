@@ -1,0 +1,963 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	osqp/include/types.h	/^  csc     *A; \/\/\/< linear constraints matrix A in csc format (size m x n)$/;"	m	struct:__anon6
+ADAPTIVE_RHO	osqp/include/constants.h	93;"	d
+ADAPTIVE_RHO_FIXED	osqp/include/constants.h	100;"	d
+ADAPTIVE_RHO_FRACTION	osqp/include/constants.h	95;"	d
+ADAPTIVE_RHO_INTERVAL	osqp/include/constants.h	94;"	d
+ADAPTIVE_RHO_MULTIPLE_TERMINATION	osqp/include/constants.h	97;"	d
+ADAPTIVE_RHO_TOLERANCE	osqp/include/constants.h	104;"	d
+ALPHA	osqp/include/constants.h	53;"	d
+APOLLO_SPEED_INCLUDE_CONSTANTJERKTRAJECTORY1D_HPP_	include/ConstantJerkTrajectory1d.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_CURVE1D_HPP_	include/Curve1d.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_DISCRETIZEDPATH_HPP_	include/DiscretizedPath.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_IPOPTINTERFACE_HPP_	include/IpoptInterface.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_MATH_HPP_	include/math.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PATHPOINT_HPP_	include/PathPoint.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PIECEWISEJERKPATHPROBLEM_HPP_	include/PiecewiseJerkPathProblem.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PIECEWISEJERKPROBLEM_HPP_	include/PiecewiseJerkProblem.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PIECEWISEJERKSPEEDNONLINEARIPOPTINTERFACE_HPP_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PIECEWISEJERKSPEEDOPTIMIZER_HPP_	include/PiecewiseJerkSpeedOptimizer.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PIECEWISEJERKSPEEDPROBLEM_HPP_	include/PiecewiseJerkSpeedProblem.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_PIECEWISEJERKTRAJECTORY1D_HPP_	include/PiecewiseJerkTrajectory1d.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_SPEEDDATA_HPP_	include/SpeedData.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_SPEEDLIMIT_HPP_	include/SpeedLimit.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_SPEEDPOINT_HPP_	include/SpeedPoint.hpp	6;"	d
+APOLLO_SPEED_INCLUDE_SPEEDPROFILEGENERATOR_HPP_	include/SpeedProfileGenerator.hpp	6;"	d
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	456;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	459;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	462;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	465;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	469;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	471;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	473;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	477;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	480;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	483;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	488;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	491;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	494;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	499;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	502;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	505;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	510;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	513;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	516;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	519;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	522;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	525;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	528;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	454;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	458;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	462;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	465;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	473;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	476;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	479;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	495;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	498;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	501;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	504;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	507;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+AUXIL_H	osqp/include/auxil.h	2;"	d
+A_to_Alow	osqp/include/types.h	/^  c_int   *A_to_Alow; \/\/\/< Maps indices in A to indices in Alow$/;"	m	struct:__anon5
+A_to_Aupp	osqp/include/types.h	/^  c_int   *A_to_Aupp; \/\/\/< Maps indices in A to indices in Aupp$/;"	m	struct:__anon5
+Adelta_x	osqp/include/types.h	/^  c_float *Adelta_x; \/\/\/< A * delta_x$/;"	m	struct:__anon8
+Alow_to_A	osqp/include/types.h	/^  c_int   *Alow_to_A; \/\/\/< Maps indices in Alow to indices in A$/;"	m	struct:__anon5
+AppendSegment	src/PiecewiseJerkTrajectory1d.cpp	/^void PiecewiseJerkTrajectory1d::AppendSegment(const double jerk,$/;"	f	class:PiecewiseJerkTrajectory1d
+AppendSpeedLimit	src/SpeedLimit.cpp	/^void SpeedLimit::AppendSpeedLimit(const double s, const double v) {$/;"	f	class:SpeedLimit
+AppendSpeedPoint	src/SpeedData.cpp	/^void SpeedData::AppendSpeedPoint(const double s, const double time,$/;"	f	class:SpeedData
+Ared	osqp/include/types.h	/^  csc *Ared;          \/\/\/< Active rows of A.$/;"	m	struct:__anon5
+Atdelta_y	osqp/include/types.h	/^  c_float *Atdelta_y; \/\/\/< A' * delta_y$/;"	m	struct:__anon8
+Aty	osqp/include/types.h	/^  c_float *Aty; \/\/\/< Scaled A * x$/;"	m	struct:__anon8
+Aupp_to_A	osqp/include/types.h	/^  c_int   *Aupp_to_A; \/\/\/< Maps indices in Aupp to indices in A$/;"	m	struct:__anon5
+Ax	osqp/include/types.h	/^  c_float *Ax;  \/\/\/< Scaled A * x$/;"	m	struct:__anon8
+CHECK_TERMINATION	osqp/include/constants.h	71;"	d
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/xiaosheng\/Downloads\/11\/Apollo_speed_planner-master\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xiaosheng\/Downloads\/11\/Apollo_speed_planner-master$/;"	m
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	123;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	138;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	188;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	191;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	209;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	238;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	266;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	323;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	123;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	173;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	246;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	264;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	305;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	308;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	280;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	154;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	162;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	228;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	250;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	277;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	291;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	305;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	310;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	154;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	162;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	222;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	236;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	275;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	290;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	295;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	169;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	198;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	203;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	270;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	278;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	283;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	292;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	297;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	306;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	163;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	169;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	192;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	197;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	268;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	276;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	127;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	142;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	148;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	157;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	204;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	258;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	271;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	279;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	293;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	298;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	307;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	312;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	127;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	193;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	209;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	256;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	277;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	292;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CONSTANTS_H	osqp/include/constants.h	2;"	d
+CS_H	osqp/include/cs.h	2;"	d
+CTRLC	osqp/include/osqp_configure.h	23;"	d
+CTRLC_H	osqp/include/ctrlc.h	6;"	d
+CXX_STD	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	594;"	d	file:
+CXX_STD	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	596;"	d	file:
+C_DIALECT	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	611;"	d	file:
+C_DIALECT	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	613;"	d	file:
+C_DIALECT	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	616;"	d	file:
+C_DIALECT	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	618;"	d	file:
+C_DIALECT	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	620;"	d	file:
+CalculateAffineConstraint	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::CalculateAffineConstraint($/;"	f	class:PiecewiseJerkProblem
+CalculateKernel	src/PiecewiseJerkPathProblem.cpp	/^void PiecewiseJerkPathProblem::CalculateKernel(std::vector<c_float> *P_data,$/;"	f	class:PiecewiseJerkPathProblem
+CalculateKernel	src/PiecewiseJerkSpeedProblem.cpp	/^void PiecewiseJerkSpeedProblem::CalculateKernel(std::vector<c_float>* P_data,$/;"	f	class:PiecewiseJerkSpeedProblem
+CalculateOffset	src/PiecewiseJerkPathProblem.cpp	/^void PiecewiseJerkPathProblem::CalculateOffset(std::vector<c_float>* q) {$/;"	f	class:PiecewiseJerkPathProblem
+CalculateOffset	src/PiecewiseJerkSpeedProblem.cpp	/^void PiecewiseJerkSpeedProblem::CalculateOffset(std::vector<c_float>* q) {$/;"	f	class:PiecewiseJerkSpeedProblem
+Clear	src/SpeedLimit.cpp	/^void SpeedLimit::Clear() { speed_limit_points_.clear(); }/;"	f	class:SpeedLimit
+ConstantJerkTrajectory1d	include/ConstantJerkTrajectory1d.hpp	/^class ConstantJerkTrajectory1d : Curve1d {$/;"	c
+ConstantJerkTrajectory1d	src/ConstantJerkTrajectory1d.cpp	/^ConstantJerkTrajectory1d::ConstantJerkTrajectory1d(const double p0,$/;"	f	class:ConstantJerkTrajectory1d
+CopyData	include/PiecewiseJerkProblem.hpp	/^    T* CopyData(const std::vector<T>& vec) {$/;"	f	class:PiecewiseJerkProblem
+Curve1d	include/Curve1d.hpp	/^class Curve1d {$/;"	c
+D	osqp/include/types.h	/^  c_float *D;    \/\/\/< primal variable scaling$/;"	m	struct:__anon2
+DEC	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	532;"	d	file:
+DEC	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	517;"	d	file:
+DELTA	osqp/include/constants.h	64;"	d
+DLONG	osqp/include/osqp_configure.h	29;"	d
+D_temp	osqp/include/types.h	/^  c_float *D_temp;   \/\/\/< temporary primal variable scaling vectors$/;"	m	struct:__anon8
+D_temp_A	osqp/include/types.h	/^  c_float *D_temp_A; \/\/\/< temporary primal variable scaling vectors storing$/;"	m	struct:__anon8
+Dinv	osqp/include/types.h	/^  c_float *Dinv; \/\/\/< primal variable rescaling$/;"	m	struct:__anon2
+DiscretizedPath	include/DiscretizedPath.hpp	/^ class DiscretizedPath : public std::vector<PathPoint> {$/;"	c
+DiscretizedPath	src/DiscretizedPath.cpp	/^DiscretizedPath::DiscretizedPath(std::vector<PathPoint> path_points)$/;"	f	class:DiscretizedPath
+E	osqp/include/types.h	/^  c_float *E;    \/\/\/< dual variable scaling$/;"	m	struct:__anon2
+ENABLE_MKL_PARDISO	osqp/include/osqp_configure.h	32;"	d
+EPS_ABS	osqp/include/constants.h	49;"	d
+EPS_DUAL_INF	osqp/include/constants.h	52;"	d
+EPS_PRIM_INF	osqp/include/constants.h	51;"	d
+EPS_REL	osqp/include/constants.h	50;"	d
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+E_temp	osqp/include/types.h	/^  c_float *E_temp;   \/\/\/< temporary constraints scaling vectors storing norms of$/;"	m	struct:__anon8
+Einv	osqp/include/types.h	/^  c_float *Einv; \/\/\/< dual variable rescaling$/;"	m	struct:__anon2
+Evaluate	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::Evaluate(const std::uint32_t order,$/;"	f	class:ConstantJerkTrajectory1d
+Evaluate	src/DiscretizedPath.cpp	/^PathPoint DiscretizedPath::Evaluate(const double path_s) const {$/;"	f	class:DiscretizedPath
+Evaluate	src/PiecewiseJerkTrajectory1d.cpp	/^double PiecewiseJerkTrajectory1d::Evaluate(const std::uint32_t order,$/;"	f	class:PiecewiseJerkTrajectory1d
+EvaluateByS	src/SpeedData.cpp	/^bool SpeedData::EvaluateByS(const double s,$/;"	f	class:SpeedData
+EvaluateByTime	src/SpeedData.cpp	/^bool SpeedData::EvaluateByTime(const double t,$/;"	f	class:SpeedData
+EvaluateReverse	src/DiscretizedPath.cpp	/^PathPoint DiscretizedPath::EvaluateReverse(const double path_s) const {$/;"	f	class:DiscretizedPath
+FillEnoughSpeedPoints	src/SpeedProfileGenerator.cpp	/^void SpeedProfileGenerator::FillEnoughSpeedPoints(SpeedData* const speed_data) {$/;"	f	class:SpeedProfileGenerator
+FormulateProblem	src/PiecewiseJerkProblem.cpp	/^OSQPData* PiecewiseJerkProblem::FormulateProblem() {$/;"	f	class:PiecewiseJerkProblem
+FreeData	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::FreeData(OSQPData* data) {$/;"	f	class:PiecewiseJerkProblem
+GLOB_OPTS_H	osqp/include/glob_opts.h	2;"	d
+GetSpeedLimitByS	src/SpeedLimit.cpp	/^double SpeedLimit::GetSpeedLimitByS(const double s) const {$/;"	f	class:SpeedLimit
+HEX	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	543;"	d	file:
+HEX	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	528;"	d	file:
+ID_VOID_MAIN	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IS_LINUX	osqp/include/osqp_configure.h	9;"	d
+InterpolateUsingLinearApproximation	src/math.cpp	/^PathPoint InterpolateUsingLinearApproximation(const PathPoint &p0,$/;"	f
+IpoptInterface	include/IpoptInterface.hpp	/^class IpoptInterface {$/;"	c
+KKT_H	osqp/include/kkt.h	2;"	d
+LINSYS_SOLVER	osqp/include/constants.h	54;"	d
+LINSYS_SOLVER_NAME	osqp/include/constants.h	/^static const char *LINSYS_SOLVER_NAME[] = {$/;"	v
+LIN_ALG_H	osqp/include/lin_alg.h	2;"	d
+LIN_SYS_H	osqp/include/lin_sys.h	2;"	d
+Length	src/DiscretizedPath.cpp	/^double DiscretizedPath::Length() const {$/;"	f	class:DiscretizedPath
+LinSysSolver	osqp/include/types.h	/^typedef struct linsys_solver LinSysSolver;$/;"	t	typeref:struct:linsys_solver
+MAX_ITER	osqp/include/constants.h	48;"	d
+MAX_SCALING	osqp/include/constants.h	76;"	d
+MIN_SCALING	osqp/include/constants.h	75;"	d
+MKL_PARDISO_SOLVER	osqp/include/constants.h	/^enum linsys_solver_type { QDLDL_SOLVER, MKL_PARDISO_SOLVER };$/;"	e	enum:linsys_solver_type
+NOGDI	osqp/include/util.h	98;"	d
+NormalizeAngle	src/math.cpp	/^double NormalizeAngle(const double angle) {$/;"	f
+OSQPData	osqp/include/types.h	/^} OSQPData;$/;"	t	typeref:struct:__anon6
+OSQPInfo	osqp/include/types.h	/^} OSQPInfo;$/;"	t	typeref:struct:__anon4
+OSQPPolish	osqp/include/types.h	/^} OSQPPolish;$/;"	t	typeref:struct:__anon5
+OSQPScaling	osqp/include/types.h	/^} OSQPScaling;$/;"	t	typeref:struct:__anon2
+OSQPSettings	osqp/include/types.h	/^} OSQPSettings;$/;"	t	typeref:struct:__anon7
+OSQPSolution	osqp/include/types.h	/^} OSQPSolution;$/;"	t	typeref:struct:__anon3
+OSQPTimer	osqp/include/types.h	/^typedef struct OSQP_TIMER OSQPTimer;$/;"	t	typeref:struct:OSQP_TIMER
+OSQPWorkspace	osqp/include/types.h	/^} OSQPWorkspace;$/;"	t	typeref:struct:__anon8
+OSQP_CONFIGURE_H	osqp/include/osqp_configure.h	2;"	d
+OSQP_DUAL_INFEASIBLE	osqp/include/constants.h	25;"	d
+OSQP_DUAL_INFEASIBLE_INACCURATE	osqp/include/constants.h	19;"	d
+OSQP_H	osqp/include/osqp.h	2;"	d
+OSQP_INFTY	osqp/include/constants.h	88;"	d
+OSQP_MAX_ITER_REACHED	osqp/include/constants.h	23;"	d
+OSQP_NAN	osqp/include/constants.h	84;"	d
+OSQP_NON_CVX	osqp/include/constants.h	30;"	d
+OSQP_NULL	osqp/include/constants.h	80;"	d
+OSQP_PRIMAL_INFEASIBLE	osqp/include/constants.h	24;"	d
+OSQP_PRIMAL_INFEASIBLE_INACCURATE	osqp/include/constants.h	20;"	d
+OSQP_SIGINT	osqp/include/constants.h	26;"	d
+OSQP_SOLVED	osqp/include/constants.h	22;"	d
+OSQP_SOLVED_INACCURATE	osqp/include/constants.h	21;"	d
+OSQP_TIMER	osqp/include/util.h	/^struct OSQP_TIMER {$/;"	s
+OSQP_TIME_LIMIT_REACHED	osqp/include/constants.h	28;"	d
+OSQP_TYPES_H	osqp/include/types.h	2;"	d
+OSQP_UNSOLVED	osqp/include/constants.h	31;"	d
+OSQP_VERSION	osqp/include/constants.h	12;"	d
+Optimize	src/PiecewiseJerkProblem.cpp	/^bool PiecewiseJerkProblem::Optimize(const int max_iter) {$/;"	f	class:PiecewiseJerkProblem
+OptimizeByNLP	src/PiecewiseJerkSpeedOptimizer.cpp	/^bool PiecewiseJerkSpeedOptimizer::OptimizeByNLP(const std::vector<std::pair<double, double>> &s_bounds,$/;"	f	class:PiecewiseJerkSpeedOptimizer
+OptimizeByQP	src/PiecewiseJerkSpeedOptimizer.cpp	/^bool PiecewiseJerkSpeedOptimizer::OptimizeByQP(const std::vector<std::pair<double, double>> &s_bounds,$/;"	f	class:PiecewiseJerkSpeedOptimizer
+P	osqp/include/types.h	/^  csc     *P; \/\/\/< quadratic part of the cost P in csc format (size n x n). It$/;"	m	struct:__anon6
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	360;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	363;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	366;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	384;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	387;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	390;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	393;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	411;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	417;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	421;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	424;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	427;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	430;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	433;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	438;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	441;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	445;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	396;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	399;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	402;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	418;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	423;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	426;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+POLISH	osqp/include/constants.h	65;"	d
+POLISH_H	osqp/include/polish.h	3;"	d
+POLISH_REFINE_ITER	osqp/include/constants.h	66;"	d
+PRINTING	osqp/include/osqp_configure.h	17;"	d
+PRINT_INTERVAL	osqp/include/constants.h	115;"	d
+PROFILING	osqp/include/osqp_configure.h	20;"	d
+PROJ_H	osqp/include/proj.h	2;"	d
+ParamLength	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::ParamLength() const { return param_; }$/;"	f	class:ConstantJerkTrajectory1d
+ParamLength	src/PiecewiseJerkTrajectory1d.cpp	/^double PiecewiseJerkTrajectory1d::ParamLength() const { return param_.back(); }$/;"	f	class:PiecewiseJerkTrajectory1d
+PathPoint	include/PathPoint.hpp	/^class PathPoint {$/;"	c
+Pdelta_x	osqp/include/types.h	/^  c_float *Pdelta_x; \/\/\/< P * delta_x$/;"	m	struct:__anon8
+PiecewiseJerkPathProblem	include/PiecewiseJerkPathProblem.hpp	/^class PiecewiseJerkPathProblem : public PiecewiseJerkProblem{$/;"	c
+PiecewiseJerkPathProblem	src/PiecewiseJerkPathProblem.cpp	/^PiecewiseJerkPathProblem::PiecewiseJerkPathProblem($/;"	f	class:PiecewiseJerkPathProblem
+PiecewiseJerkProblem	include/PiecewiseJerkProblem.hpp	/^class PiecewiseJerkProblem {$/;"	c
+PiecewiseJerkProblem	src/PiecewiseJerkProblem.cpp	/^PiecewiseJerkProblem::PiecewiseJerkProblem($/;"	f	class:PiecewiseJerkProblem
+PiecewiseJerkSpeedNonlinearIpoptInterface	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^class PiecewiseJerkSpeedNonlinearIpoptInterface : public Ipopt::TNLP {$/;"	c
+PiecewiseJerkSpeedNonlinearIpoptInterface	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^PiecewiseJerkSpeedNonlinearIpoptInterface($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+PiecewiseJerkSpeedOptimizer	include/PiecewiseJerkSpeedOptimizer.hpp	/^class PiecewiseJerkSpeedOptimizer {$/;"	c
+PiecewiseJerkSpeedOptimizer	src/PiecewiseJerkSpeedOptimizer.cpp	/^PiecewiseJerkSpeedOptimizer::PiecewiseJerkSpeedOptimizer()$/;"	f	class:PiecewiseJerkSpeedOptimizer
+PiecewiseJerkSpeedProblem	include/PiecewiseJerkSpeedProblem.hpp	/^class PiecewiseJerkSpeedProblem : public PiecewiseJerkProblem {$/;"	c
+PiecewiseJerkSpeedProblem	src/PiecewiseJerkSpeedProblem.cpp	/^PiecewiseJerkSpeedProblem::PiecewiseJerkSpeedProblem($/;"	f	class:PiecewiseJerkSpeedProblem
+PiecewiseJerkTrajectory1d	include/PiecewiseJerkTrajectory1d.hpp	/^class PiecewiseJerkTrajectory1d : public Curve1d {$/;"	c
+PiecewiseJerkTrajectory1d	src/PiecewiseJerkTrajectory1d.cpp	/^PiecewiseJerkTrajectory1d::PiecewiseJerkTrajectory1d(const double p,$/;"	f	class:PiecewiseJerkTrajectory1d
+Process	src/PiecewiseJerkSpeedOptimizer.cpp	/^bool PiecewiseJerkSpeedOptimizer::Process(std::vector<std::pair<double, double>> &s_bounds,$/;"	f	class:PiecewiseJerkSpeedOptimizer
+Px	osqp/include/types.h	/^  c_float *Px;  \/\/\/< Scaled P * x$/;"	m	struct:__anon8
+QDLDL_SOLVER	osqp/include/constants.h	/^enum linsys_solver_type { QDLDL_SOLVER, MKL_PARDISO_SOLVER };$/;"	e	enum:linsys_solver_type
+QueryLowerBound	src/DiscretizedPath.cpp	/^std::vector<PathPoint>::const_iterator DiscretizedPath::QueryLowerBound($/;"	f	class:DiscretizedPath
+QueryUpperBound	src/DiscretizedPath.cpp	/^std::vector<PathPoint>::const_iterator DiscretizedPath::QueryUpperBound($/;"	f	class:DiscretizedPath
+RHO	osqp/include/constants.h	46;"	d
+RHO_EQ_OVER_RHO_INEQ	osqp/include/constants.h	58;"	d
+RHO_MAX	osqp/include/constants.h	57;"	d
+RHO_MIN	osqp/include/constants.h	56;"	d
+RHO_TOL	osqp/include/constants.h	59;"	d
+RM	build/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m
+SCALED_TERMINATION	osqp/include/constants.h	70;"	d
+SCALING	osqp/include/constants.h	73;"	d
+SCALING_H	osqp/include/scaling.h	2;"	d
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIGMA	osqp/include/constants.h	47;"	d
+SIMULATE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	211;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	234;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	344;"	d	file:
+STRINGIFY	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	329;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	343;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SmoothPathCurvature	src/PiecewiseJerkSpeedOptimizer.cpp	/^bool PiecewiseJerkSpeedOptimizer::SmoothPathCurvature(const DiscretizedPath &cartesian_path) {$/;"	f	class:PiecewiseJerkSpeedOptimizer
+SmoothSpeedLimit	src/PiecewiseJerkSpeedOptimizer.cpp	/^bool PiecewiseJerkSpeedOptimizer::SmoothSpeedLimit(const SpeedLimit &speed_limit) {$/;"	f	class:PiecewiseJerkSpeedOptimizer
+SolverDefaultSettings	src/PiecewiseJerkProblem.cpp	/^OSQPSettings* PiecewiseJerkProblem::SolverDefaultSettings() {$/;"	f	class:PiecewiseJerkProblem
+SolverDefaultSettings	src/PiecewiseJerkSpeedProblem.cpp	/^OSQPSettings* PiecewiseJerkSpeedProblem::SolverDefaultSettings() {$/;"	f	class:PiecewiseJerkSpeedProblem
+SpeedData	include/SpeedData.hpp	/^class SpeedData : public std::vector<SpeedPoint> {$/;"	c
+SpeedData	src/SpeedData.cpp	/^SpeedData::SpeedData(std::vector<SpeedPoint> speed_points)$/;"	f	class:SpeedData
+SpeedLimit	include/SpeedLimit.hpp	/^class SpeedLimit {$/;"	c
+SpeedPoint	include/SpeedPoint.hpp	/^    SpeedPoint(double s, double t, double v, double a, double da)$/;"	f	class:SpeedPoint
+SpeedPoint	include/SpeedPoint.hpp	/^class SpeedPoint {$/;"	c
+SpeedProfileGenerator	include/SpeedProfileGenerator.hpp	/^class SpeedProfileGenerator {$/;"	c
+TIME_LIMIT	osqp/include/constants.h	111;"	d
+ToString	src/ConstantJerkTrajectory1d.cpp	/^std::string ConstantJerkTrajectory1d::ToString() const { return ""; }$/;"	f	class:ConstantJerkTrajectory1d
+ToString	src/PiecewiseJerkTrajectory1d.cpp	/^std::string PiecewiseJerkTrajectory1d::ToString() const { return ""; }/;"	f	class:PiecewiseJerkTrajectory1d
+TotalLength	src/SpeedData.cpp	/^double SpeedData::TotalLength() const {$/;"	f	class:SpeedData
+TotalTime	src/SpeedData.cpp	/^double SpeedData::TotalTime() const {$/;"	f	class:SpeedData
+UTIL_H	osqp/include/util.h	2;"	d
+VERBOSE	osqp/include/constants.h	67;"	d
+WARM_START	osqp/include/constants.h	72;"	d
+a0_	include/ConstantJerkTrajectory1d.hpp	/^    double a0_;$/;"	m	class:ConstantJerkTrajectory1d
+a1_	include/ConstantJerkTrajectory1d.hpp	/^    double a1_;$/;"	m	class:ConstantJerkTrajectory1d
+a_	include/SpeedPoint.hpp	/^    double s_ = 0, t_ = 0, v_ = 0, a_ = 0, da_ = 0;$/;"	m	class:SpeedPoint
+a_offset_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const int a_offset_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+a_target_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double a_target_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+adaptive_rho	osqp/include/types.h	/^  c_int   adaptive_rho;           \/\/\/< boolean, is rho step size adaptive?$/;"	m	struct:__anon7
+adaptive_rho_fraction	osqp/include/types.h	/^  c_float adaptive_rho_fraction;  \/\/\/< Interval for adapting rho (fraction of$/;"	m	struct:__anon7
+adaptive_rho_interval	osqp/include/types.h	/^  c_int   adaptive_rho_interval;  \/\/\/< Number of iterations between rho$/;"	m	struct:__anon7
+adaptive_rho_tolerance	osqp/include/types.h	/^  c_float adaptive_rho_tolerance; \/\/\/< Tolerance X for adapting rho. The new rho$/;"	m	struct:__anon7
+alpha	osqp/include/types.h	/^  c_float                 alpha;         \/\/\/< relaxation parameter$/;"	m	struct:__anon7
+ax	plot/plot.py	/^ax = fig.add_subplot(121)$/;"	v
+bx	plot/plot.py	/^bx = fig.add_subplot(122)$/;"	v
+c	osqp/include/types.h	/^  c_float  c;    \/\/\/< cost function scaling$/;"	m	struct:__anon2
+c_absval	osqp/include/glob_opts.h	101;"	d
+c_calloc	osqp/include/glob_opts.h	/^static void* c_calloc(size_t num, size_t size) {$/;"	f
+c_calloc	osqp/include/glob_opts.h	51;"	d
+c_calloc	osqp/include/glob_opts.h	71;"	d
+c_eprint	osqp/include/glob_opts.h	173;"	d
+c_float	osqp/include/glob_opts.h	/^typedef double c_float; \/* for numerical values  *\/$/;"	t
+c_float	osqp/include/glob_opts.h	/^typedef float c_float;  \/* for numerical values  *\/$/;"	t
+c_fmod	osqp/include/glob_opts.h	125;"	d
+c_fmod	osqp/include/glob_opts.h	128;"	d
+c_free	osqp/include/glob_opts.h	43;"	d
+c_free	osqp/include/glob_opts.h	67;"	d
+c_free	osqp/include/glob_opts.h	72;"	d
+c_int	osqp/include/glob_opts.h	/^typedef int c_int;       \/* for indices *\/$/;"	t
+c_int	osqp/include/glob_opts.h	/^typedef long long c_int; \/* for indices *\/$/;"	t
+c_malloc	osqp/include/glob_opts.h	/^static void* c_malloc(size_t size) {$/;"	f
+c_malloc	osqp/include/glob_opts.h	49;"	d
+c_malloc	osqp/include/glob_opts.h	70;"	d
+c_max	osqp/include/glob_opts.h	105;"	d
+c_min	osqp/include/glob_opts.h	109;"	d
+c_print	osqp/include/glob_opts.h	139;"	d
+c_print	osqp/include/glob_opts.h	162;"	d
+c_print	osqp/include/glob_opts.h	165;"	d
+c_print	osqp/include/glob_opts.h	167;"	d
+c_realloc	osqp/include/glob_opts.h	/^static void* c_realloc(void *ptr, size_t size) {$/;"	f
+c_realloc	osqp/include/glob_opts.h	68;"	d
+c_realloc	osqp/include/glob_opts.h	73;"	d
+c_roundmultiple	osqp/include/glob_opts.h	114;"	d
+c_sqrt	osqp/include/glob_opts.h	124;"	d
+c_sqrt	osqp/include/glob_opts.h	127;"	d
+check_termination	osqp/include/types.h	/^  c_int check_termination;               \/\/\/< integer, check termination$/;"	m	struct:__anon7
+cinv	osqp/include/types.h	/^  c_float  cinv; \/\/\/< cost function rescaling$/;"	m	struct:__anon2
+const	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+constr_type	osqp/include/types.h	/^  c_int *constr_type; \/\/\/< Type of constraints: loose (-1), equality (1),$/;"	m	struct:__anon8
+csc	osqp/include/types.h	/^} csc;$/;"	t	typeref:struct:__anon1
+curvature_curve_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    PiecewiseJerkTrajectory1d curvature_curve_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+da_	include/SpeedPoint.hpp	/^    double s_ = 0, t_ = 0, v_ = 0, a_ = 0, da_ = 0;$/;"	m	class:SpeedPoint
+data	osqp/include/types.h	/^  OSQPData *data;$/;"	m	struct:__anon8
+dddx_bound_	include/PiecewiseJerkProblem.hpp	/^    std::pair<double, double> dddx_bound_;$/;"	m	class:PiecewiseJerkProblem
+ddkappa_	include/PathPoint.hpp	/^    double ddkappa_ = 0;$/;"	m	class:PathPoint
+ddx_	include/PiecewiseJerkProblem.hpp	/^    std::vector<double> ddx_;$/;"	m	class:PiecewiseJerkProblem
+ddx_bounds_	include/PiecewiseJerkProblem.hpp	/^    std::vector<std::pair<double, double>> ddx_bounds_;$/;"	m	class:PiecewiseJerkProblem
+delta	osqp/include/types.h	/^  c_float delta;                         \/\/\/< regularization parameter for$/;"	m	struct:__anon7
+delta_s_	include/PiecewiseJerkProblem.hpp	/^    double delta_s_ = 1.0;$/;"	m	class:PiecewiseJerkProblem
+delta_t_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double delta_t_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+delta_t_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double delta_t_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+delta_x	osqp/include/types.h	/^  c_float *delta_x;  \/\/\/< Difference of consecutive primal iterates$/;"	m	struct:__anon8
+delta_y	osqp/include/types.h	/^  c_float *delta_y;   \/\/\/< Difference of consecutive dual iterates$/;"	m	struct:__anon8
+dkappa_	include/PathPoint.hpp	/^    double dkappa_ = 0;$/;"	m	class:PathPoint
+dua_res	osqp/include/types.h	/^  c_float  dua_res;   \/\/\/< dual residual at polished solution$/;"	m	struct:__anon5
+dua_res	osqp/include/types.h	/^  c_float dua_res;     \/\/\/< norm of dual residual$/;"	m	struct:__anon4
+dx_	include/PiecewiseJerkProblem.hpp	/^    std::vector<double> dx_;$/;"	m	class:PiecewiseJerkProblem
+dx_bounds_	include/PiecewiseJerkProblem.hpp	/^    std::vector<std::pair<double, double>> dx_bounds_;$/;"	m	class:PiecewiseJerkProblem
+dx_ref_	include/PiecewiseJerkSpeedProblem.hpp	/^    double dx_ref_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedProblem
+end_acceleration	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::end_acceleration() const { return a1_; }$/;"	f	class:ConstantJerkTrajectory1d
+end_position	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::end_position() const { return p1_; }$/;"	f	class:ConstantJerkTrajectory1d
+end_state_ref_	include/PiecewiseJerkProblem.hpp	/^    std::array<double, 3> end_state_ref_;$/;"	m	class:PiecewiseJerkProblem
+end_velocity	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::end_velocity() const { return v1_; }$/;"	f	class:ConstantJerkTrajectory1d
+eps_abs	osqp/include/types.h	/^  c_float                 eps_abs;       \/\/\/< absolute convergence tolerance$/;"	m	struct:__anon7
+eps_dual_inf	osqp/include/types.h	/^  c_float                 eps_dual_inf;  \/\/\/< dual infeasibility tolerance$/;"	m	struct:__anon7
+eps_prim_inf	osqp/include/types.h	/^  c_float                 eps_prim_inf;  \/\/\/< primal infeasibility tolerance$/;"	m	struct:__anon7
+eps_rel	osqp/include/types.h	/^  c_float                 eps_rel;       \/\/\/< relative convergence tolerance$/;"	m	struct:__anon7
+eval_f	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::eval_f(int n, const double *x,$/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+eval_g	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::eval_g(int n, const double *x,$/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+eval_grad_f	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::eval_grad_f(int n,$/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+eval_h	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::eval_h($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+eval_jac_g	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::eval_jac_g($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+fig	plot/plot.py	/^fig = plt.figure()$/;"	v
+finalize_solution	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::finalize_solution($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+first_run	osqp/include/types.h	/^  c_int first_run;$/;"	m	struct:__anon8
+free	osqp/include/types.h	/^  void (*free)(LinSysSolver *self);             \/\/\/< Free linear system solver$/;"	m	struct:linsys_solver
+freq	osqp/include/util.h	/^  LARGE_INTEGER freq;$/;"	m	struct:OSQP_TIMER
+get_bounds_info	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::get_bounds_info($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+get_nlp_info	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::get_nlp_info($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+get_optimization_results	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::get_optimization_results($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+get_starting_point	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^bool PiecewiseJerkSpeedNonlinearIpoptInterface::get_starting_point($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+has_dx_ref_	include/PiecewiseJerkSpeedProblem.hpp	/^    bool has_dx_ref_ = false;$/;"	m	class:PiecewiseJerkSpeedProblem
+has_end_state_ref_	include/PiecewiseJerkProblem.hpp	/^    bool has_end_state_ref_ = false;$/;"	m	class:PiecewiseJerkProblem
+has_end_state_target_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    bool has_end_state_target_ = false;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+has_x_ref_	include/PiecewiseJerkProblem.hpp	/^    bool has_x_ref_ = false;$/;"	m	class:PiecewiseJerkProblem
+hessian_mapper_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::unordered_map<int, int> hessian_mapper_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+i	osqp/include/types.h	/^  c_int   *i;     \/\/\/< row indices, size nzmax starting from 0$/;"	m	struct:__anon1
+info	osqp/include/types.h	/^  OSQPInfo     *info;     \/\/\/< Solver information$/;"	m	struct:__anon8
+info_arch	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+iter	osqp/include/types.h	/^  c_int iter;          \/\/\/< number of iterations taken$/;"	m	struct:__anon4
+jerk	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::jerk() const { return jerk_; }/;"	f	class:ConstantJerkTrajectory1d
+jerk_	include/ConstantJerkTrajectory1d.hpp	/^    double jerk_;$/;"	m	class:ConstantJerkTrajectory1d
+kMathEpsilon	src/math.cpp	/^constexpr double kMathEpsilon = 1e-10;$/;"	v
+kMaxVariableRange	src/PiecewiseJerkProblem.cpp	/^constexpr double kMaxVariableRange = 1.0e10;$/;"	v
+kappa_	include/PathPoint.hpp	/^    double kappa_ = 0;$/;"	m	class:PathPoint
+l	osqp/include/types.h	/^  c_float *l; \/\/\/< dense array for lower bound (size m)$/;"	m	struct:__anon6
+l	plot/plot.py	/^l = st_data["l"].values$/;"	v
+last_a_	include/PiecewiseJerkTrajectory1d.hpp	/^    double last_a_;$/;"	m	class:PiecewiseJerkTrajectory1d
+last_p_	include/PiecewiseJerkTrajectory1d.hpp	/^    double last_p_;$/;"	m	class:PiecewiseJerkTrajectory1d
+last_v_	include/PiecewiseJerkTrajectory1d.hpp	/^    double last_v_;$/;"	m	class:PiecewiseJerkTrajectory1d
+lerp	include/math.hpp	/^T lerp(const T &x0, const double t0, const T &x1, const double t1,$/;"	f
+linsys_solver	osqp/include/types.h	/^  LinSysSolver *linsys_solver;$/;"	m	struct:__anon8
+linsys_solver	osqp/include/types.h	/^  enum linsys_solver_type linsys_solver; \/\/\/< linear system solver to use$/;"	m	struct:__anon7	typeref:enum:__anon7::linsys_solver_type
+linsys_solver	osqp/include/types.h	/^struct linsys_solver {$/;"	s
+linsys_solver_type	osqp/include/constants.h	/^enum linsys_solver_type { QDLDL_SOLVER, MKL_PARDISO_SOLVER };$/;"	g
+lower_s_slack_offset_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    int lower_s_slack_offset_ = 0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+m	osqp/include/types.h	/^  c_int    m;     \/\/\/< number of rows$/;"	m	struct:__anon1
+m	osqp/include/types.h	/^  c_int    m; \/\/\/< number of constraints m$/;"	m	struct:__anon6
+main	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	src/demo.cpp	/^int main() {$/;"	f
+max_iter	osqp/include/types.h	/^  c_int                   max_iter;      \/\/\/< maximum iterations$/;"	m	struct:__anon7
+n	osqp/include/types.h	/^  c_int    n;     \/\/\/< number of columns$/;"	m	struct:__anon1
+n	osqp/include/types.h	/^  c_int    n; \/\/\/< number of variables n$/;"	m	struct:__anon6
+n_low	osqp/include/types.h	/^  c_int    n_low;     \/\/\/< number of lower-active rows$/;"	m	struct:__anon5
+n_upp	osqp/include/types.h	/^  c_int    n_upp;     \/\/\/< number of upper-active rows$/;"	m	struct:__anon5
+nthreads	osqp/include/types.h	/^  c_int nthreads; \/\/\/< Number of threads active$/;"	m	struct:linsys_solver
+num_of_constraints_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    int num_of_constraints_ = 0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+num_of_knots_	include/PiecewiseJerkProblem.hpp	/^    size_t num_of_knots_ = 0;$/;"	m	class:PiecewiseJerkProblem
+num_of_knots_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    int num_of_knots_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+num_of_points_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const int num_of_points_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+num_of_variables_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    int num_of_variables_ = 0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+nz	osqp/include/types.h	/^  c_int    nz;    \/\/\/< # of entries in triplet matrix, -1 for csc$/;"	m	struct:__anon1
+nzmax	osqp/include/types.h	/^  c_int    nzmax; \/\/\/< maximum number of entries.$/;"	m	struct:__anon1
+obj_val	osqp/include/types.h	/^  c_float  obj_val;   \/\/\/< objective value at polished solution$/;"	m	struct:__anon5
+obj_val	osqp/include/types.h	/^  c_float obj_val;     \/\/\/< primal objective$/;"	m	struct:__anon4
+opt_a_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<double> opt_a_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+opt_ddx	include/PiecewiseJerkProblem.hpp	/^    const std::vector<double>& opt_ddx() const { return ddx_; }$/;"	f	class:PiecewiseJerkProblem
+opt_dx	include/PiecewiseJerkProblem.hpp	/^    const std::vector<double>& opt_dx() const { return dx_; }$/;"	f	class:PiecewiseJerkProblem
+opt_s_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<double> opt_s_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+opt_v_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<double> opt_v_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+opt_x	include/PiecewiseJerkProblem.hpp	/^    const std::vector<double>& opt_x() const { return x_; }$/;"	f	class:PiecewiseJerkProblem
+override	include/PiecewiseJerkPathProblem.hpp	/^                         std::vector<c_int>* P_indptr) override;$/;"	m	class:PiecewiseJerkPathProblem
+override	include/PiecewiseJerkPathProblem.hpp	/^    void CalculateOffset(std::vector<c_float>* q) override;$/;"	m	class:PiecewiseJerkPathProblem
+override	include/PiecewiseJerkPathProblem.hpp	/^    ~PiecewiseJerkPathProblem() override = default;$/;"	m	class:PiecewiseJerkPathProblem
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^                            double *lambda) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^                           Ipopt::IpoptCalculatedQuantities *ip_cq) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^                         double *g_u) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^                      IndexStyleEnum &index_style) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^                    int *iRow, int *jCol, double *values) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^                int *jCol, double *values) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    bool eval_f(int n, const double *x, bool new_x, double &obj_value) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    bool eval_g(int n, const double *x, bool new_x, int m, double *g) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    bool eval_grad_f(int n, const double *x, bool new_x, double *grad_f) override;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+override	include/PiecewiseJerkSpeedProblem.hpp	/^                         std::vector<c_int>* P_indptr) override;$/;"	m	class:PiecewiseJerkSpeedProblem
+override	include/PiecewiseJerkSpeedProblem.hpp	/^    OSQPSettings* SolverDefaultSettings() override;$/;"	m	class:PiecewiseJerkSpeedProblem
+override	include/PiecewiseJerkSpeedProblem.hpp	/^    void CalculateOffset(std::vector<c_float>* q) override;$/;"	m	class:PiecewiseJerkSpeedProblem
+p	osqp/include/types.h	/^  c_int   *p;     \/\/\/< column pointers (size n+1) (col indices (size nzmax)$/;"	m	struct:__anon1
+p0_	include/ConstantJerkTrajectory1d.hpp	/^    double p0_;$/;"	m	class:ConstantJerkTrajectory1d
+p1_	include/ConstantJerkTrajectory1d.hpp	/^    double p1_;$/;"	m	class:ConstantJerkTrajectory1d
+param_	include/ConstantJerkTrajectory1d.hpp	/^    double param_;$/;"	m	class:ConstantJerkTrajectory1d
+param_	include/PiecewiseJerkTrajectory1d.hpp	/^    std::vector<double> param_;$/;"	m	class:PiecewiseJerkTrajectory1d
+penalty_dx_	include/PiecewiseJerkSpeedProblem.hpp	/^    std::vector<double> penalty_dx_;$/;"	m	class:PiecewiseJerkSpeedProblem
+pol	osqp/include/types.h	/^  OSQPPolish *pol;$/;"	m	struct:__anon8
+polish	osqp/include/types.h	/^  c_int   polish;                        \/\/\/< boolean, polish ADMM solution$/;"	m	struct:__anon7
+polish_refine_iter	osqp/include/types.h	/^  c_int   polish_refine_iter;            \/\/\/< iterative refinement steps in$/;"	m	struct:__anon7
+polish_time	osqp/include/types.h	/^  c_float polish_time; \/\/\/< time taken for polish phase (seconds)$/;"	m	struct:__anon4
+pri_res	osqp/include/types.h	/^  c_float  pri_res;   \/\/\/< primal residual at polished solution$/;"	m	struct:__anon5
+pri_res	osqp/include/types.h	/^  c_float pri_res;     \/\/\/< norm of primal residual$/;"	m	struct:__anon4
+pwd	plot/plot.py	/^pwd = os.getcwd()$/;"	v
+q	osqp/include/types.h	/^  c_float *q; \/\/\/< dense array for linear part of cost function (size n)$/;"	m	struct:__anon6
+qnxnto	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+rho	osqp/include/types.h	/^  c_float rho;                    \/\/\/< ADMM step rho$/;"	m	struct:__anon7
+rho_estimate	osqp/include/types.h	/^  c_float rho_estimate; \/\/\/< best rho estimate so far from residuals$/;"	m	struct:__anon4
+rho_inv_vec	osqp/include/types.h	/^  c_float *rho_inv_vec; \/\/\/< vector of inv rho values$/;"	m	struct:__anon8
+rho_updates	osqp/include/types.h	/^  c_int   rho_updates;  \/\/\/< number of rho updates$/;"	m	struct:__anon4
+rho_vec	osqp/include/types.h	/^  c_float *rho_vec;     \/\/\/< vector of rho values$/;"	m	struct:__anon8
+run_time	osqp/include/types.h	/^  c_float run_time;    \/\/\/< total time  (seconds)$/;"	m	struct:__anon4
+s	plot/plot.py	/^s = st_data["s"].values$/;"	v
+s	plot/plot.py	/^s = v_data["s"].values;$/;"	v
+s_	include/PathPoint.hpp	/^    double s_ = 0;$/;"	m	class:PathPoint
+s_	include/SpeedPoint.hpp	/^    double s_ = 0, t_ = 0, v_ = 0, a_ = 0, da_ = 0;$/;"	m	class:SpeedPoint
+s_dddot_max_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_dddot_max_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_dddot_max_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_dot_max_, s_ddot_max_, s_ddot_min_, s_dddot_max_, s_dddot_min_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_dddot_min_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_dddot_min_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_dddot_min_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_dot_max_, s_ddot_max_, s_ddot_min_, s_dddot_max_, s_dddot_min_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_ddot_init_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_ddot_init_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_ddot_init_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_ddot_init_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_ddot_max_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_ddot_max_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_ddot_max_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_dot_max_, s_ddot_max_, s_ddot_min_, s_dddot_max_, s_dddot_min_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_ddot_min_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_ddot_min_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_ddot_min_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_dot_max_, s_ddot_max_, s_ddot_min_, s_dddot_max_, s_dddot_min_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_dot_init_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_dot_init_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_dot_init_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_dot_init_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_dot_max_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_dot_max_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_dot_max_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_dot_max_, s_ddot_max_, s_ddot_min_, s_dddot_max_, s_dddot_min_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_init_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_init_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_init_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double s_init_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+s_max_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const double s_max_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_ref_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<double> s_ref_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+s_target_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double s_target_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+safety_bounds_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<std::pair<double, double>> safety_bounds_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+scale_factor_	include/PiecewiseJerkProblem.hpp	/^    std::array<double, 3> scale_factor_ = {{1.0, 1.0, 1.0}};$/;"	m	class:PiecewiseJerkProblem
+scaled_termination	osqp/include/types.h	/^  c_int scaled_termination;              \/\/\/< boolean, use scaled termination$/;"	m	struct:__anon7
+scaling	osqp/include/types.h	/^  OSQPScaling  *scaling;  \/\/\/< Scaling vectors$/;"	m	struct:__anon8
+scaling	osqp/include/types.h	/^  c_int   scaling;                \/\/\/< heuristic data scaling iterations. If 0,$/;"	m	struct:__anon7
+segments_	include/PiecewiseJerkTrajectory1d.hpp	/^    std::vector<ConstantJerkTrajectory1d> segments_;$/;"	m	class:PiecewiseJerkTrajectory1d
+set_curvature_curve	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_curvature_curve($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_dddx_bound	include/PiecewiseJerkProblem.hpp	/^    void set_dddx_bound(const double dddx_bound) {$/;"	f	class:PiecewiseJerkProblem
+set_dddx_bound	include/PiecewiseJerkProblem.hpp	/^    void set_dddx_bound(const double dddx_lower_bound,$/;"	f	class:PiecewiseJerkProblem
+set_ddx_bounds	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_ddx_bounds($/;"	f	class:PiecewiseJerkProblem
+set_ddx_bounds	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_ddx_bounds(const double ddx_lower_bound,$/;"	f	class:PiecewiseJerkProblem
+set_dx_bounds	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_dx_bounds($/;"	f	class:PiecewiseJerkProblem
+set_dx_bounds	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_dx_bounds(const double dx_lower_bound,$/;"	f	class:PiecewiseJerkProblem
+set_dx_ref	src/PiecewiseJerkSpeedProblem.cpp	/^void PiecewiseJerkSpeedProblem::set_dx_ref(const double weight_dx_ref,$/;"	f	class:PiecewiseJerkSpeedProblem
+set_end_state_ref	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_end_state_ref($/;"	f	class:PiecewiseJerkProblem
+set_end_state_target	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_end_state_target($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_penalty_dx	src/PiecewiseJerkSpeedProblem.cpp	/^void PiecewiseJerkSpeedProblem::set_penalty_dx(std::vector<double> penalty_dx) {$/;"	f	class:PiecewiseJerkSpeedProblem
+set_reference_spatial_distance	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_reference_spatial_distance($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_reference_speed	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_reference_speed($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_safety_bounds	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_safety_bounds($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_scale_factor	include/PiecewiseJerkProblem.hpp	/^    void set_scale_factor(const std::array<double, 3>& scale_factor) {$/;"	f	class:PiecewiseJerkProblem
+set_soft_safety_bounds	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_soft_safety_bounds($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_speed_limit_curve	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_speed_limit_curve($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_overall_a	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_w_overall_a($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_overall_centripetal_acc	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_w_overall_centripetal_acc($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_overall_j	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_w_overall_j($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_reference_spatial_distance	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^set_w_reference_spatial_distance(const double w_ref_s) {$/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_reference_speed	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_w_reference_speed($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_soft_s_bound	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_w_soft_s_bound($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_w_target_state	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_w_target_state($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_warm_start	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^void PiecewiseJerkSpeedNonlinearIpoptInterface::set_warm_start($/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+set_weight_dddx	include/PiecewiseJerkProblem.hpp	/^    void set_weight_dddx(const double weight_dddx) { weight_dddx_ = weight_dddx; }$/;"	f	class:PiecewiseJerkProblem
+set_weight_ddx	include/PiecewiseJerkProblem.hpp	/^    void set_weight_ddx(const double weight_ddx) { weight_ddx_ = weight_ddx; }$/;"	f	class:PiecewiseJerkProblem
+set_weight_dx	include/PiecewiseJerkProblem.hpp	/^    void set_weight_dx(const double weight_dx) { weight_dx_ = weight_dx; }$/;"	f	class:PiecewiseJerkProblem
+set_weight_x	include/PiecewiseJerkProblem.hpp	/^    void set_weight_x(const double weight_x) { weight_x_ = weight_x; }$/;"	f	class:PiecewiseJerkProblem
+set_x_bounds	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_x_bounds($/;"	f	class:PiecewiseJerkProblem
+set_x_bounds	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_x_bounds(const double x_lower_bound,$/;"	f	class:PiecewiseJerkProblem
+set_x_ref	src/PiecewiseJerkProblem.cpp	/^void PiecewiseJerkProblem::set_x_ref(const double weight_x_ref,$/;"	f	class:PiecewiseJerkProblem
+settings	osqp/include/types.h	/^  OSQPSettings *settings; \/\/\/< Problem settings$/;"	m	struct:__anon8
+setup_time	osqp/include/types.h	/^  c_float setup_time;  \/\/\/< time taken for setup phase (seconds)$/;"	m	struct:__anon4
+sigma	osqp/include/types.h	/^  c_float sigma;                  \/\/\/< ADMM step sigma$/;"	m	struct:__anon7
+slerp	src/math.cpp	/^double slerp(const double a0, const double t0, const double a1, const double t1,$/;"	f
+smoothed_path_curvature_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    PiecewiseJerkTrajectory1d smoothed_path_curvature_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+smoothed_speed_limit_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    PiecewiseJerkTrajectory1d smoothed_speed_limit_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+soft_safety_bounds_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<std::pair<double, double>> soft_safety_bounds_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+solution	osqp/include/types.h	/^  OSQPSolution *solution; \/\/\/< Problem solution$/;"	m	struct:__anon8
+solve	osqp/include/types.h	/^  c_int (*solve)(LinSysSolver       *self,$/;"	m	struct:linsys_solver
+solve_time	osqp/include/types.h	/^  c_float solve_time;  \/\/\/< time taken for solve phase (seconds)$/;"	m	struct:__anon4
+speed_limit_points	src/SpeedLimit.cpp	/^const std::vector<std::pair<double, double>>& SpeedLimit::speed_limit_points()$/;"	f	class:SpeedLimit
+speed_limit_points_	include/SpeedLimit.hpp	/^    std::vector<std::pair<double, double>> speed_limit_points_;$/;"	m	class:SpeedLimit
+st_data	plot/plot.py	/^st_data = pd.read_csv(pwd+"\/st_test.csv")$/;"	v
+start_acceleration	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::start_acceleration() const { return a0_; }$/;"	f	class:ConstantJerkTrajectory1d
+start_position	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::start_position() const { return p0_; }$/;"	f	class:ConstantJerkTrajectory1d
+start_velocity	src/ConstantJerkTrajectory1d.cpp	/^double ConstantJerkTrajectory1d::start_velocity() const { return v0_; }$/;"	f	class:ConstantJerkTrajectory1d
+status	osqp/include/types.h	/^  char  status[32];    \/\/\/< status string, e.g. 'solved'$/;"	m	struct:__anon4
+status_polish	osqp/include/types.h	/^  c_int status_polish; \/\/\/< polish status: successful (1), unperformed (0), (-1)$/;"	m	struct:__anon4
+status_val	osqp/include/types.h	/^  c_int status_val;    \/\/\/< status as c_int, defined in constants.h$/;"	m	struct:__anon4
+summary_printed	osqp/include/types.h	/^  c_int summary_printed; \/\/\/< Has last summary been printed? (true\/false)$/;"	m	struct:__anon8
+t	plot/plot.py	/^t = st_data["t"].values$/;"	v
+t_	include/SpeedPoint.hpp	/^    double s_ = 0, t_ = 0, v_ = 0, a_ = 0, da_ = 0;$/;"	m	class:SpeedPoint
+theta_	include/PathPoint.hpp	/^    double theta_ = 0;$/;"	m	class:PathPoint
+tic	osqp/include/util.h	/^  LARGE_INTEGER tic;$/;"	m	struct:OSQP_TIMER
+tic	osqp/include/util.h	/^  struct timespec tic;$/;"	m	struct:OSQP_TIMER	typeref:struct:OSQP_TIMER::timespec
+tic	osqp/include/util.h	/^  uint64_t                  tic;$/;"	m	struct:OSQP_TIMER
+time_limit	osqp/include/types.h	/^  c_float time_limit;                    \/\/\/< maximum seconds allowed to solve$/;"	m	struct:__anon7
+timer	osqp/include/types.h	/^  OSQPTimer *timer;       \/\/\/< Timer object$/;"	m	struct:__anon8
+tinfo	osqp/include/util.h	/^  mach_timebase_info_data_t tinfo;$/;"	m	struct:OSQP_TIMER
+to_hash_key	src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp	/^int PiecewiseJerkSpeedNonlinearIpoptInterface::to_hash_key(const int i,$/;"	f	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+toc	osqp/include/util.h	/^  LARGE_INTEGER toc;$/;"	m	struct:OSQP_TIMER
+toc	osqp/include/util.h	/^  struct timespec toc;$/;"	m	struct:OSQP_TIMER	typeref:struct:OSQP_TIMER::timespec
+toc	osqp/include/util.h	/^  uint64_t                  toc;$/;"	m	struct:OSQP_TIMER
+total_length_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double total_length_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+total_time_	include/PiecewiseJerkSpeedOptimizer.hpp	/^    double total_time_;$/;"	m	class:PiecewiseJerkSpeedOptimizer
+type	osqp/include/types.h	/^  enum linsys_solver_type type; \/\/\/< Linear system solver type (see type.h)$/;"	m	struct:linsys_solver	typeref:enum:linsys_solver::linsys_solver_type
+u	osqp/include/types.h	/^  c_float *u; \/\/\/< dense array for upper bound (size m)$/;"	m	struct:__anon6
+u	plot/plot.py	/^u = st_data["u"].values$/;"	v
+update_matrices	osqp/include/types.h	/^  c_int (*update_matrices)(LinSysSolver *self, const csc *P, const csc *A,$/;"	m	struct:linsys_solver
+update_rho_vec	osqp/include/types.h	/^  c_int (*update_rho_vec)(LinSysSolver  *s,$/;"	m	struct:linsys_solver
+upper_s_slack_offset_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    int upper_s_slack_offset_ = 0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+use_soft_safety_bound_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    bool use_soft_safety_bound_ = false;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+use_v_bound_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    bool use_v_bound_ = false;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+v	plot/plot.py	/^v = v_data["v"].values$/;"	v
+v0_	include/ConstantJerkTrajectory1d.hpp	/^    double v0_;$/;"	m	class:ConstantJerkTrajectory1d
+v1_	include/ConstantJerkTrajectory1d.hpp	/^    double v1_;$/;"	m	class:ConstantJerkTrajectory1d
+v_	include/SpeedPoint.hpp	/^    double s_ = 0, t_ = 0, v_ = 0, a_ = 0, da_ = 0;$/;"	m	class:SpeedPoint
+v_bound_func_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    PiecewiseJerkTrajectory1d v_bound_func_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+v_data	plot/plot.py	/^v_data = pd.read_csv(pwd+"\/v_test.csv")$/;"	v
+v_limit	plot/plot.py	/^v_limit = v_data["b"].values$/;"	v
+v_max_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double v_max_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+v_offset_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    const int v_offset_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+v_ref_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double v_ref_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+v_target_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double v_target_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+verbose	osqp/include/types.h	/^  c_int verbose;                         \/\/\/< boolean, write out progres$/;"	m	struct:__anon7
+volatile	build/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+w_overall_a_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_overall_a_ = 100.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_overall_centripetal_acc_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_overall_centripetal_acc_ = 500.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_overall_j_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_overall_j_ = 10.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_ref_s_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_ref_s_ = 1.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_ref_v_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_ref_v_ = 1.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_soft_s_bound_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_soft_s_bound_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_target_a_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_target_a_ = 10000.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_target_s_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_target_s_ = 10000.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+w_target_v_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    double w_target_v_ = 10000.0;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+warm_start	osqp/include/types.h	/^  c_int warm_start;                      \/\/\/< boolean, warm start$/;"	m	struct:__anon7
+weight_dddx_	include/PiecewiseJerkProblem.hpp	/^    double weight_dddx_ = 0.0;$/;"	m	class:PiecewiseJerkProblem
+weight_ddx_	include/PiecewiseJerkProblem.hpp	/^    double weight_ddx_ = 0.0;$/;"	m	class:PiecewiseJerkProblem
+weight_dx_	include/PiecewiseJerkProblem.hpp	/^    double weight_dx_ = 0.0;$/;"	m	class:PiecewiseJerkProblem
+weight_dx_ref_	include/PiecewiseJerkSpeedProblem.hpp	/^    double weight_dx_ref_ = 0.0;$/;"	m	class:PiecewiseJerkSpeedProblem
+weight_end_state_	include/PiecewiseJerkProblem.hpp	/^    std::array<double, 3> weight_end_state_ = {{0.0, 0.0, 0.0}};$/;"	m	class:PiecewiseJerkProblem
+weight_x_	include/PiecewiseJerkProblem.hpp	/^    double weight_x_ = 0.0;$/;"	m	class:PiecewiseJerkProblem
+weight_x_ref_	include/PiecewiseJerkProblem.hpp	/^    double weight_x_ref_ = 0.0;$/;"	m	class:PiecewiseJerkProblem
+x	osqp/include/types.h	/^  c_float *x;         \/\/\/< optimal x-solution obtained by polish$/;"	m	struct:__anon5
+x	osqp/include/types.h	/^  c_float *x;        \/\/\/< Iterate x$/;"	m	struct:__anon8
+x	osqp/include/types.h	/^  c_float *x;     \/\/\/< numerical values, size nzmax$/;"	m	struct:__anon1
+x	osqp/include/types.h	/^  c_float *x; \/\/\/< Primal solution$/;"	m	struct:__anon3
+x_	include/PathPoint.hpp	/^    double x_ = 0;$/;"	m	class:PathPoint
+x_	include/PiecewiseJerkProblem.hpp	/^    std::vector<double> x_;$/;"	m	class:PiecewiseJerkProblem
+x_bounds_	include/PiecewiseJerkProblem.hpp	/^    std::vector<std::pair<double, double>> x_bounds_;$/;"	m	class:PiecewiseJerkProblem
+x_derivative_	include/PathPoint.hpp	/^    double x_derivative_ = 0;$/;"	m	class:PathPoint
+x_init_	include/PiecewiseJerkProblem.hpp	/^    std::array<double, 3> x_init_;$/;"	m	class:PiecewiseJerkProblem
+x_prev	osqp/include/types.h	/^  c_float *x_prev;   \/\/\/< Previous x$/;"	m	struct:__anon8
+x_ref_	include/PiecewiseJerkProblem.hpp	/^    std::vector<double> x_ref_;$/;"	m	class:PiecewiseJerkProblem
+x_warm_start_	include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp	/^    std::vector<std::vector<double>> x_warm_start_;$/;"	m	class:PiecewiseJerkSpeedNonlinearIpoptInterface
+xz_tilde	osqp/include/types.h	/^  c_float *xz_tilde; \/\/\/< Iterate xz_tilde$/;"	m	struct:__anon8
+y	osqp/include/types.h	/^  c_float *y;         \/\/\/< optimal y-solution obtained by polish$/;"	m	struct:__anon5
+y	osqp/include/types.h	/^  c_float *y;        \/\/\/< Iterate y$/;"	m	struct:__anon8
+y	osqp/include/types.h	/^  c_float *y; \/\/\/< Lagrange multiplier associated to \\f$l <= Ax <= u\\f\$$/;"	m	struct:__anon3
+y_	include/PathPoint.hpp	/^    double y_ = 0;$/;"	m	class:PathPoint
+y_derivative_	include/PathPoint.hpp	/^    double y_derivative_ = 0;$/;"	m	class:PathPoint
+z	osqp/include/types.h	/^  c_float *z;         \/\/\/< optimal z-solution obtained by polish$/;"	m	struct:__anon5
+z	osqp/include/types.h	/^  c_float *z;        \/\/\/< Iterate z$/;"	m	struct:__anon8
+z_	include/PathPoint.hpp	/^    double z_ = 0;$/;"	m	class:PathPoint
+z_prev	osqp/include/types.h	/^  c_float *z_prev;   \/\/\/< Previous z$/;"	m	struct:__anon8
