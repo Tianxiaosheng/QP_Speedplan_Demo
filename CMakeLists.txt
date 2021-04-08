@@ -9,17 +9,8 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake")
 find_package(IPOPT REQUIRED)
 find_package(Eigen3 REQUIRED)
 
-#include_directories(
-#        include
-#        osqp/include
-#        ${EIGEN3_INCLUDE_DIR}
-#)
-
 link_directories(osqp/lib)
 
-#add_library(${PROJECT_NAME} src/PiecewiseJerkSpeedOptimizer.cpp include/PiecewiseJerkSpeedOptimizer.hpp
-#        src/IpoptInterface.cpp include/IpoptInterface.hpp src/PiecewiseJerkProblem.cpp include/PiecewiseJerkProblem.hpp src/PiecewiseJerkSpeedProblem.cpp include/PiecewiseJerkSpeedProblem.hpp src/SpeedLimit.cpp include/SpeedLimit.hpp
-#        src/SpeedPoint.cpp include/SpeedPoint.hpp src/SpeedData.cpp include/SpeedData.hpp include/math.hpp src/PathPoint.cpp include/PathPoint.hpp src/DiscretizedPath.cpp include/DiscretizedPath.hpp src/PiecewiseJerkPathProblem.cpp include/PiecewiseJerkPathProblem.hpp src/PiecewiseJerkTrajectory1d.cpp include/PiecewiseJerkTrajectory1d.hpp include/Curve1d.hpp src/ConstantJerkTrajectory1d.cpp include/ConstantJerkTrajectory1d.hpp src/math.cpp src/PiecewiseJerkSpeedNonlinearIpoptInterface.cpp include/PiecewiseJerkSpeedNonlinearIpoptInterface.hpp src/SpeedProfileGenerator.cpp include/SpeedProfileGenerator.hpp)
 add_library(${PROJECT_NAME})
 target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_11)
 target_sources(${PROJECT_NAME}
@@ -72,5 +63,3 @@ install(EXPORT ${PROJECT_NAME}Config
         )
 install(DIRECTORY include/
         DESTINATION ${CMAKE_INSTALL_INCLUDEDIR})
-#install(FILES ${CMAKE_CURRENT_LIST_DIR}/cmake/${PROJECT_NAME}Config.cmake
-#        DESTINATION ${CMAKE_INSTALL_LIBDIR}/cmkae/${PROJECT_NAME})
